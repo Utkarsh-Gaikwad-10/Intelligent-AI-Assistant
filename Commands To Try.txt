@@ -1,0 +1,56 @@
+--->  Commands To Try
+
+- Tell me your name and purpose
+
+- Open Youtube
+- Search on Youtube Foootball/Messi/Ronaldo
+
+- Open Google
+- Open Facebook
+- Open Instagram
+- Open LinkedIn
+- Open Chat GPT
+- Open Microsoft Word
+- Open Microsoft Excel
+- Open Microsoft Powerpoint
+
+- Open Command Prompt
+- Close Command Prompt
+
+- Calculate -> 5+10 / 5*5 / 100-50
+
+- What is my ip address
+
+- Tell me a joke 
+
+- Play Music
+
+- What's the time Akash
+
+- Virat Kohli according to wikipedia
+
+- Akash What's the latest news
+
+- Akash Open Code 
+- Stop running the code
+
+- Volume Up
+- Volume Down
+
+- Scroll Down
+
+- Open Microsoft Edge
+- Open new window
+- Open Incognito Window
+- Close Window
+- Minimize the window
+- Maximize the window
+- Open history
+- Next tab
+- Previous Tab
+- Close tab
+- Clear Browsing History
+- Close Microsoft Edge
+
+- Shut down
+- Restart the system
